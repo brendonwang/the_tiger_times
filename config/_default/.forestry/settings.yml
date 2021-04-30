@@ -9,11 +9,10 @@ sections:
   label: Edit
   create: all
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
 - type: document
   path: content/authors
   label: Edit
-  match: "**/*"
 - type: directory
   path: config/_default/content
   label: Pages
