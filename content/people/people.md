@@ -1,5 +1,5 @@
 ---
-widget: hero
+widget: people
 headless: true
 weight: "68"
 title: About us
