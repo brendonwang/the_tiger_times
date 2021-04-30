@@ -18,5 +18,17 @@ fields:
   config:
     required: false
     color_format: Hex
+- name: menu_primary
+  type: color
+  label: menu_primary
+  config:
+    required: false
+    color_format: Hex
+- name: menu_text
+  type: color
+  label: menu_Text
+  config:
+    required: false
+    color_format: Hex
 pages:
 - data/theme/my_theme.toml.md
