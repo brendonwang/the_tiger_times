@@ -2,3 +2,5 @@
 label: hero.md
 hide_body: false
 fields: []
+pages:
+- data/theme/my_theme.toml.md
