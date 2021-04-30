@@ -12,4 +12,4 @@ advanced:
   css_class: 
 
 ---
-<p>Quote of the week: “Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do.”</p><p style="text-align: center">-Pele</p>
+<p>Quote of the week: “Success is no accident. It is hard work, perseverance, learning, studying, sacrifice, and most of all, love of what you are doing or learning to do.”</p><p style="text-align: center">-Pele</p>
