@@ -58,6 +58,8 @@ _</div>
 
 <div class="games2">
 
+![](https://static.wixstatic.com/media/b314c1_f78e5e71a75d42b69d71a3f40cfda1af\~mv2.jpg/v1/fill/w_634,h_634,al_c,q_85/19001174-7511255-The_latest_brainteaser_.webp)
+
 <img src="![](https://static.wixstatic.com/media/b314c1_f78e5e71a75d42b69d71a3f40cfda1af\~mv2.jpg/v1/fill/w_634,h_634,al_c,q_85/19001174-7511255-The_latest_brainteaser_.webp)" alt="Paris" class="center">
 
 </div>
