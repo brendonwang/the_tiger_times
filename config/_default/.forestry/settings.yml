@@ -5,24 +5,11 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: data
-  label: Edit all
-  create: all
-  match: "**/*"
-- type: directory
-  path: config
-  label: Edit All
-  create: all
-  match: "**/*"
-- type: directory
   path: content
   label: Edit
   create: all
   match: "**/*"
   new_doc_ext: md
-- type: document
-  path: content/authors
-  label: Edit
 - type: directory
   path: config/_default/content
   label: Pages

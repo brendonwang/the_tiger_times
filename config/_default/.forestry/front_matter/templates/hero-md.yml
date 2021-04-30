@@ -30,5 +30,3 @@ fields:
   config:
     required: false
     color_format: Hex
-pages:
-- data/theme/my_theme.toml.md
