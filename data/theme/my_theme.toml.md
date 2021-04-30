@@ -1,5 +1,7 @@
 +++
 light = "true"
+menu_primary = "#4A90E2"
+menu_text = "#FF0000"
 name = "TigerTimes"
 primary = "#F5A623"
 
@@ -14,7 +16,7 @@ light = true
 
 \# Primary
 
-primary = "#1565c0"
+r
 
 \# Menu
 
@@ -34,6 +36,6 @@ home_section_even = "rgb(247, 247, 247)"
 
 \[dark\]
 
-  link = "#bbdefb"
+link = "#bbdefb"
 
-  link_hover = "#bbdefb"
+link_hover = "#bbdefb"
