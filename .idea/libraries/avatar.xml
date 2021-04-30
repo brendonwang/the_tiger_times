@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="avatar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/content/authors/BrendonWang/avatar.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
