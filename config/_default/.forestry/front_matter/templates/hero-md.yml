@@ -1,6 +1,22 @@
 ---
 label: hero.md
 hide_body: false
-fields: []
+fields:
+- name: name
+  type: text
+  config:
+    required: false
+  label: Name
+- name: light
+  type: text
+  config:
+    required: false
+  label: light
+- name: primary
+  type: color
+  label: primary
+  config:
+    required: false
+    color_format: Hex
 pages:
 - data/theme/my_theme.toml.md
