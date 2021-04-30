@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Brendon Wang
+title: Sarah Park
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Co-Founder & Editor
+role: Writer
  
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -25,3 +25,5 @@ user_groups:
 ---
 
 Some text that describes me lorem ipsum ipsum lorem.
+
+

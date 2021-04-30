@@ -9,16 +9,16 @@
 #  weight = 10
 
 [[main]]
-  name = "Newsletter"
-  url = "post"
+  name = "Issues"
+  url = "categories"
   weight = 20
 
 [[main]]
-  name = "People"
+  name = "About Us"
   url = "people"
   weight = 30
 
 [[main]]
-  name = "Fun Game"
+  name = "Fun Games"
   url = "game"
   weight = 60

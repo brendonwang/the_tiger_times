@@ -6,7 +6,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "Ms. Kaminoff's room"
+title: "The Tiger Times"
 subtitle: ""
 hero_media: school.png
 design:
@@ -17,7 +17,7 @@ advanced:
   css_class:
 ---
 
-Ms. Kaminoff's room , 4th grade from Medina elementry school, WA  
+<p>Quote of the week: “Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do.”</p><p style="text-align: center">-Pele</p>
 
 
 
