@@ -5,6 +5,16 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: content
+  label: Edit
+  create: all
+  match: "**/*"
+  new_doc_ext: ".md"
+- type: document
+  path: content/authors
+  label: Edit
+  match: "**/*"
+- type: directory
   path: config/_default/content
   label: Pages
   create: all
