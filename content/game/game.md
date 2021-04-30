@@ -1,37 +1,25 @@
 ---
-# An instance of the Contact widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: blank
-
-# This file represents a page section.
 headless: true
-
-# Order that this section appears on the page.
-weight: 10
-
-title: <br/>Fun Games
-subtitle:
-
+weight: "10"
+title: "<br/>Fun Games"
+subtitle: 
 content:
-  # Automatically link email and phone or display as text?
   autolink: true
-  
-  # Email form provider
   form:
     provider: netlify
     formspree:
-      id:
+      id: 
     netlify:
-      # Enable CAPTCHA challenge reducing spam?
       captcha: false
-
 design:
-  columns: '1'
+  columns: "1"
+
 ---
 <style>
 body {
-  font-family: Arial, Helvetica, sans-serif;
-  margin: 0;
+font-family: Arial, Helvetica, sans-serif;
+margin: 0;
 }
 
 html {
@@ -52,10 +40,12 @@ color: white;
 }
 </style>
 <div class="instruction">
-  <p>This week, we have a logo contest! Send a email to <a href = "mailto: s-wangb@bsd405.org" target="_blank" style="color:white">Brendon</a> to submit your logo. This contest ends on May 6th.</p>
-  <p>If you don't want to do it, don't worry! There are a lot of games below. Also, find a easter egg on this website!</p>
+<p>This week, we have a logo contest! Send a email to <a href = "mailto: s-wangb@bsd405.org" target="_blank" style="color:white">Brendon</a> to submit your logo. This contest ends on May 6th.</p>
+<p>If you don't want to do it, don't worry! There are a lot of games below. Also, find a easter egg on this website!</p>
 </div>
 <div class="games">
-  <p>Click <a href="https://docs.google.com/forms/d/e/1FAIpQLSflNxNM0jzbZJjUqOcXkwhGTfii4CM_CA3kCxImbY8c3AABEA/formResponse" target="_blank" style="color:white">here</a> to do a fun virtual Harry Potter themed escape room. Did you know that Harry Potter day is on May 2nd?</p>
-  <p>Click <a href="https://eko.com/buzzfeed-quizzes-v/hogwarts-v?autoplay=true&device=desktop" target="_blank" style="color:white">here</a> to get sorted into hogwarts houses.</p>
+<p>Click <a href="https://docs.google.com/forms/d/e/1FAIpQLSflNxNM0jzbZJjUqOcXkwhGTfii4CM_CA3kCxImbY8c3AABEA/formResponse" target="_blank" style="color:white">here</a> to do a fun virtual Harry Potter themed escape room. Did you know that Harry Potter day is on May 2nd?</p>
+<p>Click <a href="https://eko.com/buzzfeed-quizzes-v/hogwarts-v?autoplay=true&device=desktop" target="_blank" style="color:white">here</a> to get sorted into hogwarts houses.</p>
 </div>
+
+If you don't want to do the first two, just try this 'find the item'! Try to find the hidden eye shadow amongst the tasty treats.![](https://static.wixstatic.com/media/b314c1_f78e5e71a75d42b69d71a3f40cfda1af\~mv2.jpg/v1/fill/w_634,h_634,al_c,q_85/19001174-7511255-The_latest_brainteaser_.webp)
