@@ -58,6 +58,4 @@ width: 50%;
 
 <div class = "games2">
 
-zfhajadjsfkald;flsakdfj
-
 </div>
