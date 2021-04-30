@@ -27,7 +27,7 @@ upload_dir: ''
 public_path: content/post/**/*
 front_matter_path: content/post/**/*
 use_front_matter_path: true
-file_template: ":year:/:filename:"
+file_template: ":filename:"
 build:
   preview_env:
   - HUGO_ENV=staging
