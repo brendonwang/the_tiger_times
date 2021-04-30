@@ -1,27 +1,13 @@
 ---
-# Display name
 title: Brendon Wang
-
-# Is this the primary user of the site?
 superuser: true
-
-# Role/position
 role: Co-Founder & Editor
- 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+bio: I like coding
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
- 
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+- Legos
+- Coding
 user_groups:
 - Our Team
----
 
+---
 Some text that describes me lorem ipsum ipsum lorem.
