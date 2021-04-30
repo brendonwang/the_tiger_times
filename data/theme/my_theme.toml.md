@@ -1,7 +1,6 @@
 +++
-draft = true
-light = ""
-name = ""
+light = "true"
+name = "TigerTimes"
 primary = "#F5A623"
 
 +++
