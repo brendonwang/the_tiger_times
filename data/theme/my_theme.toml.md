@@ -1,5 +1,8 @@
 +++
 draft = true
+light = ""
+name = ""
+primary = "#F5A623"
 
 +++
 \# Theme metadata
