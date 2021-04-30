@@ -56,9 +56,7 @@ color: white;
 <p>Click <a href="https://eko.com/buzzfeed-quizzes-v/hogwarts-v?autoplay=true&device=desktop" target="_blank" style="color:white">here</a> to get sorted into hogwarts houses.</p>
 _</div>
 
-<div class="games2">
-
-![](https://static.wixstatic.com/media/b314c1_f78e5e71a75d42b69d71a3f40cfda1af\~mv2.jpg/v1/fill/w_634,h_634,al_c,q_85/19001174-7511255-The_latest_brainteaser_.webp)
+<div class="games2">![](content/post/**/*/./game.png)
 
 <img src="![](https://static.wixstatic.com/media/b314c1_f78e5e71a75d42b69d71a3f40cfda1af\~mv2.jpg/v1/fill/w_634,h_634,al_c,q_85/19001174-7511255-The_latest_brainteaser_.webp)" alt="Paris" class="center">
 
