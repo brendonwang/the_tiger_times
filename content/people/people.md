@@ -1,25 +1,16 @@
 ---
-# An instance of the People widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: people
-
-# This file represents a page section.
+widget: weight
 headless: true
-
-# Order that this section appears on the page.
-weight: 68
-
+weight: "68"
 title: About us
 subtitle: We are the Newspaper club. We write about what happens in the classroom.
-
 content:
-  # Choose which groups/teams of users to display.
-  #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
   - Our Team
 design:
   show_interests: false
   show_role: true
   show_social: false
-  show_bio: false  
+  show_bio: false
+
 ---
