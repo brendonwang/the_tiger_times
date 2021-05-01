@@ -23,6 +23,8 @@ interests:
 user_groups:
 - Our Team
 - Editors
+
+weight: 20
 ---
 
 Some text that describes me lorem ipsum ipsum lorem.

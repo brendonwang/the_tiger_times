@@ -23,6 +23,7 @@ interests:
 user_groups:
 - Our Team
 - Founders
+weight: 1 
 ---
 
 

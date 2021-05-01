@@ -16,6 +16,7 @@ menu_title = "#fff"
 # Home sections
 home_section_odd = "#e7712b"
 menu_primary = "#1c367d"
+background = "#fff5b3"
 [dark]
     link = "#fff"
     link_hover = "rgb(200, 200, 200)"

@@ -1,7 +1,6 @@
 ---
 widget: people
 headless: false
-weight: "68"
 title: About us
 subtitle: We are the Newspaper club. We write about what happens in the classroom.
 content:

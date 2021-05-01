@@ -12,7 +12,4 @@ header:
   caption: ""
   image: ""
 ---
-<style>
-body {background-color: #fff5b3;}
-</style>
 <p>Quote of the week: “Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do.”</p><p style="text-align: center">-Pele</p>

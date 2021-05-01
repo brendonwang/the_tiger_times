@@ -10,6 +10,7 @@ user_groups:
 - Our Team
 - Founders
 - Editors
+weight: 1
 
 ---
 Some text that describes me lorem ipsum ipsum lorem.
