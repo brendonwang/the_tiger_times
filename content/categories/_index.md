@@ -1,5 +1,5 @@
 ---
-title: Issue 1
+title: Issues
 
 # View.
 #   1 = List
