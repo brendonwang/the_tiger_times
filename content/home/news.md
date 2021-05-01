@@ -19,7 +19,6 @@ design:
   view: "3"
   columns: "1"
   background:
-    image: https://i.pinimg.com/originals/b1/e0/d7/b1e0d7488d0d7e954a5644df6b794263.gif
     image_darken: "12"
     image_position: 90, 90
     image_size: 200, 289
