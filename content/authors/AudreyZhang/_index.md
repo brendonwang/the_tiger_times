@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Ira Tiwary
+title: Audrey Zhang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Co-Founder & Reporter
+role: Writer
  
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -22,7 +22,6 @@ interests:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Our Team
-- Founders
 ---
 
 Some text that describes me lorem ipsum ipsum lorem.

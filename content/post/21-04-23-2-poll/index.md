@@ -11,4 +11,4 @@ categories:
 
 ---
 This week's poll was about:
-![img.png](img.png)
+![img_1.png](img_1.png)

@@ -6,7 +6,7 @@ title: Anna Zhou
 superuser: true
 
 # Role/position
-role: Journalist & Website Maker
+role: Journalist & Editor
  
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -22,6 +22,7 @@ interests:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Our Team
+- Editors
 ---
 
 Some text that describes me lorem ipsum ipsum lorem.

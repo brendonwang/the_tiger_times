@@ -8,6 +8,8 @@ interests:
 - Coding
 user_groups:
 - Our Team
+- Founders
+- Editors
 
 ---
 Some text that describes me lorem ipsum ipsum lorem.
