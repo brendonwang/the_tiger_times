@@ -6,7 +6,7 @@ title: Ira Tiwary
 superuser: true
 
 # Role/position
-role: Co-Founder & Reporter
+role: Co-Founder & Journalist
  
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
