@@ -45,7 +45,7 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = ""
+org_name = "The Tiger Times"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = "My research group description."
@@ -194,7 +194,7 @@ talk_view = 2
 #   "": Disabled
 #   "disqus": Disqus (https://disqus.com)
 #   "commento": Commento (https://commento.io)
-provider= ""
+provider= "disqus"
 [comments.disqus]
     shortname = "tigertimes-netlify-app"  # Paste the shortname from your Disqus dashboard.
     show_count = true  # Show comment count in page header? (true/false)
