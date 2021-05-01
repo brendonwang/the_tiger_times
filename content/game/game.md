@@ -52,10 +52,10 @@ width: 50%;
 <p>If you don't want to do it, don't worry! There are a lot of games below. Also, find a easter egg on this website!</p>
 </div>
 <div class="games">
-<p>Click <a href="https://docs.google.com/forms/d/e/1FAIpQLSflNxNM0jzbZJjUqOcXkwhGTfii4CM_CA3kCxImbY8c3AABEA/formResponse" target="_blank" style="color:white">here</_> to do a fun virtual Harry Potter themed escape room. Did you know that Harry Potter day is on May 2nd?</p> <p>Click <a href="https://eko.com/buzzfeed-quizzes-v/hogwarts-v?autoplay=true&device=desktop" target="_blank" style="color:white">here</a> to get sorted into hogwarts houses.</p>_ 
+<p>Click <a href="https://docs.google.com/forms/d/e/1FAIpQLSflNxNM0jzbZJjUqOcXkwhGTfii4CM_CA3kCxImbY8c3AABEA/formResponse" target="_blank" style="color:white">here</_> to do a fun virtual Harry Potter themed escape room. Did you know that Harry Potter day is on May 2nd?</p> <p>Click <a href="https://eko.com/buzzfeed-quizzes-v/hogwarts-v?autoplay=true&device=desktop" target="_blank" style="color:white">here</a> to get sorted into hogwarts houses.</p>
 
 </div>
 
-<div class = "games2">
+[comment]: <> (<div class = "games2">)
 
-</div>
+[comment]: <> (</div>)

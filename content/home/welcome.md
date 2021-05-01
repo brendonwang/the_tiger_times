@@ -4,7 +4,7 @@ headless: true
 weight: "10"
 title: The Tiger Times
 subtitle: ''
-hero_media: school.png
+hero_media: tiger.png
 design:
   columns: "1"
 advanced:

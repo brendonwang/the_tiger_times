@@ -4,7 +4,7 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Issues
+  - name: Newsletter
     url: 'categories'
     weight: 10
   - name: About Us
