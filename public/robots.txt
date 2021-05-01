@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: http://tigertimes.netlify.app/sitemap.xml
