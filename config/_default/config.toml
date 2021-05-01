@@ -36,7 +36,6 @@ enableRobotsTXT = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 disableAliases = true  # Disable aliases when `redirects` is added to the `outputs` below.
-
 # Workaround Hugo publishing taxonomy URLs as plurals - consistently use singular across Academic.
 [permalinks]
 authors = "/author/:slug/"

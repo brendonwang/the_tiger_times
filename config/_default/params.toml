@@ -194,15 +194,12 @@ talk_view = 2
 #   "": Disabled
 #   "disqus": Disqus (https://disqus.com)
 #   "commento": Commento (https://commento.io)
-provider = ""
-
+provider= ""
+[comments.disqus]
+    shortname = "tigertimes-netlify-app"  # Paste the shortname from your Disqus dashboard.
+    show_count = true  # Show comment count in page header? (true/false)
 # Which page types are commentable?
 commentable = {page = true, post = true, docs = true, project = true, publication = true, talk = true}
-
-# Configuration of Disqus.
-[comments.disqus]
-shortname = ""  # Paste the shortname from your Disqus dashboard.
-show_count = true  # Show comment count in page header? (true/false)
 
 # Configuration of Commento.
 [comments.commento]

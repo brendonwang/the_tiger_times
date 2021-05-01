@@ -1,1 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sarah Park | The Tiger Times</title><link>http://tigertimes.netlify.app/author/sarah-park/</link><atom:link href="http://tigertimes.netlify.app/author/sarah-park/index.xml" rel="self" type="application/rss+xml"/><description>Sarah Park</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© The Tiger Times</copyright><image><url>http://tigertimes.netlify.app/author/sarah-park/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q75_lanczos_center.jpg</url><title>Sarah Park</title><link>http://tigertimes.netlify.app/author/sarah-park/</link></image></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sarah Park | The Tiger Times</title>
+    <link>/author/sarah-park/</link>
+      <atom:link href="/author/sarah-park/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sarah Park</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© The Tiger Times</copyright>
+    <image>
+      <url>/author/sarah-park/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Sarah Park</title>
+      <link>/author/sarah-park/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,1 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Authors | The Tiger Times</title><link>http://tigertimes.netlify.app/authors/</link><atom:link href="http://tigertimes.netlify.app/authors/index.xml" rel="self" type="application/rss+xml"/><description>Authors</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© The Tiger Times</copyright><lastBuildDate>Fri, 23 Apr 2021 12:00:00 +0000</lastBuildDate><image><url>http://tigertimes.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url><title>Authors</title><link>http://tigertimes.netlify.app/authors/</link></image></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | The Tiger Times</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© The Tiger Times</copyright><lastBuildDate>Fri, 23 Apr 2021 12:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+  </channel>
+</rss>
