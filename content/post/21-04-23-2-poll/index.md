@@ -1,8 +1,10 @@
 ---
 title: Polls
 authors:
-- BrendonWang
-date: 2021-04-09T07:00:00+00:00
+- BrendonWang 
+  
+date: 2021-04-23T3:00:00Z
+summary: "Which superpower would you choose?"
 tags:
 - Issue 2
 - Poll

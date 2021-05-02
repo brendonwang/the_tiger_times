@@ -1,7 +1,8 @@
 ---
 title: "Book Suggestions"
 authors: ["YijiaWen"]
-date: 2021-04-23
+date: 2021-04-23T7:00:00Z
+
 tags: ["Issue 2", "Book Suggestions"]
 categories: ["Issue 2"]
 ---

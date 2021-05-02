@@ -1,6 +1,6 @@
 ---
 title: "New Read Aloud, Stand up Yumi Chung"
-date: 2021-04-23
+date: 2021-04-23T6:00:00Z
 authors: ["AngelaJohnson"]
 tags: ["Issue 2", "Read Aloud"]
 categories: ["Issue 2"]

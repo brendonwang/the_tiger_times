@@ -1,6 +1,6 @@
 ---
 title: "Oregon Trail"
-date: 2021-04-23
+date: 2021-04-23T9:00:00Z
 authors: ["IraTiwary"]
 tags: ["Issue 2", "Oregon Trail"]
 categories: ["Issue 2"]

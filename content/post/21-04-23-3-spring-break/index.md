@@ -1,7 +1,7 @@
 ---
 title: "What we did during Spring break"
 authors: ["JulieHu"]
-date: 2021-04-23
+date: 2021-04-23T8:00:00Z
 tags: ["Issue 2", "Interview"]
 categories: ["Issue 2"]
 ---

@@ -1,5 +1,5 @@
 ---
-title: Archive
+title: Newsletters
 
 # View.
 #   1 = List

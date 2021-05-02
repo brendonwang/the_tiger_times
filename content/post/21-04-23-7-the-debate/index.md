@@ -1,6 +1,6 @@
 ---
 title: "The Debate"
-date: 2021-04-23
+date: 2021-04-23T4:00:00Z
 authors: ["SahanaSomanna"]
 tags: ["Issue 2", "Debate"]
 categories: ["Issue 2"]

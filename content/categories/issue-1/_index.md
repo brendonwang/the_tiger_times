@@ -6,7 +6,7 @@ title: April 9th
 #   2 = Compact
 #   3 = Card
 view: 2
-
+summary: " "
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
