@@ -12,4 +12,12 @@ header:
   caption: ""
   image: ""
 ---
-<p>Quote of the week: “Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do.”</p><p style="text-align: center">-Pele</p>
+__Quote of the Week__
+>"A woman is like a tea bag - you can't tell how strong she is until you put her in hot water."
+>&nbsp;&nbsp;&nbsp;&nbsp; *-Eleanor Roosevelt*
+> 
+__Shout outs__
+
+> Happy Birthday to Natalie.
+> 
+> Congratulation to Berenice for showing perseverance.

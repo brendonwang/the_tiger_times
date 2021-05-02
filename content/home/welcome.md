@@ -12,6 +12,8 @@ advanced:
   css_class: 
 
 ---
+__Quote of the Week__
+>“Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do.”
+>
+> -Pele
 
-"Quote of the week: “Success is no accident. It is hard work, perseverance, learning, studying, sacrifice, and most of all, love of what you are doing or learning to do.”
--Pele

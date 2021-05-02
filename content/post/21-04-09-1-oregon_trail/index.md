@@ -1,10 +1,9 @@
 ---
 title: "Oregon Trail"
-date: 2021-04-09
+date: 2021-04-09T9:00:00Z
 authors: ["IraTiwary"]
 tags: ["Issue 1", "Oregon Trail"]
 categories: ["Issue 1"]
-weight: 20
 ---
 {{< figure src="the_oregon_trail.jpeg">}}
 

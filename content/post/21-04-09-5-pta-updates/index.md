@@ -1,7 +1,7 @@
 ---
 title: "PTA Updates"
 authors: ["AngelaJohnson"]
-date: 2021-04-09
+date: 2021-04-09T6:00:00Z
 tags: ["Issue 1", "PTA Updates"]
 categories: ["Issue 1"]
 ---

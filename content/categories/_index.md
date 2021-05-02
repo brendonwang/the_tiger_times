@@ -1,5 +1,5 @@
 ---
-title: Newsletter
+title: Archive
 
 # View.
 #   1 = List
@@ -12,4 +12,5 @@ header:
   caption: ""
   image: ""
 ---
-<p>Quote of the week: “Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do.”</p><p style="text-align: center">-Pele</p>
+Hello, we are the Newspaper Club. We publish every friday.
+Here are all the Newspapers:

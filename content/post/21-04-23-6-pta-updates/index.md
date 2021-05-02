@@ -2,7 +2,7 @@
 title: PTA Updates
 authors:
 - AngelaJohnson
-date: 2021-04-23T12:00:00+00:00
+date: 2021-04-23
 tags:
 - Issue 2
 - PTA Updates

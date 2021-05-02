@@ -12,4 +12,9 @@ header:
   caption: ""
   image: ""
 ---
-<p>Quote of the week: “Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do.”</p><p style="text-align: center">-Pele</p>
+__Quote of the week__
+> "If you want to fly, give up everything that weighs you down"
+> &nbsp;&nbsp;&nbsp;&nbsp;-Toni Morrison
+
+__Shout outs__
+>*Congratulation to Sahana for showing perseverance.*

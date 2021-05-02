@@ -1,6 +1,6 @@
 ---
 title: "New Read Aloud, Stand up Yumi Chung"
-date: 2021-04-09
+date: 2021-04-09T8:00:00Z
 authors: ["SilviaSohn"]
 tags: ["Issue 1", "Read Aloud"]
 categories: ["Issue 1"]
