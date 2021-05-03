@@ -15,6 +15,7 @@ header:
 ---
 __Quote of the week__
 > "If you want to fly, give up everything that weighs you down"
+> 
 > &nbsp;&nbsp;&nbsp;&nbsp;-Toni Morrison
 
 __Shout outs__
