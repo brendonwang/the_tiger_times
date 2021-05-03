@@ -12,9 +12,9 @@ role: Co-Founder & Journalist
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Reading
+- Crafts
+- Writing
 
  
 
@@ -26,5 +26,3 @@ user_groups:
 ---
 
 Some text that describes me lorem ipsum ipsum lorem.
-
-
