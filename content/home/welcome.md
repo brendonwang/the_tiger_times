@@ -13,7 +13,6 @@ advanced:
 
 ---
 __Quote of the Week__
->“Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do.”
+>“Don't be discouraged; it's often the last key of the bunch that opens the lock”
 >
-> -Pele
-
+> -Elliot Walters
