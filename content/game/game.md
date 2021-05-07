@@ -16,39 +16,19 @@ design:
   columns: "1"
 
 ---
-<style>
-body {
-font-family: Arial, Helvetica, sans-serif;
-margin: 0;
-}
-
-html {
-box-sizing: border-box;
-}
-.games {
-padding: 50px;
-text-align: center;
-background-color: #D6D6D6;
-color: black;
-}
-
-.games2 { padding: 50px; text-align: center; background-color: #9cb5a2; color: black; }
-
-.center {  
-display: block;  
-margin-left: auto;  
-margin-right: auto;  
-width: 50%;  
-} </style>
-
-<div class="games"> <p>This week, we have a logo contest! Send a email to <a href = "mailto: s-wangb@bsd405.org" target="_blank" style="color:black">Brendon</a> to submit your logo. This contest ends on May 6th.</p>
-<p>If you don't want to do it, don't worry! There are a lot of games below. Also, find a easter egg on this website!</p>
+<link href="game.css" rel="stylesheet" type="text/css" />
+<div class="games">
+    <p>Here's a 6 minute video showing how to make a mother's day card!:</p>
 </div>
 <div class="games">
-<p>Click <a href="https://docs.google.com/forms/d/e/1FAIpQLSflNxNM0jzbZJjUqOcXkwhGTfii4CM_CA3kCxImbY8c3AABEA/formResponse" target="_blank" style="color:black">here</a> to do a fun virtual Harry Potter themed escape room. Did you know that Harry Potter day is on May 2nd?</p> <p>Click <a href="https://eko.com/buzzfeed-quizzes-v/hogwarts-v?autoplay=true&device=desktop" target="_blank" style="color:black">here</a> to get sorted into hogwarts houses.</p>
-
+    <p style="text-align: center;">
+        <iframe width="1000" height="720" src="https://www.youtube.com/embed/aC-4qEbgrCQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </p>
 </div>
-
-[comment]: <> (<div class = "games2">)
-
-[comment]: <> (</div>)
+<div class="games">
+    <p>Click <a href="https://docs.google.com/forms/d/e/1FAIpQLSdhXgA8kzr8Mhho5KxDAkBvgObgeYVlcUoOn_LKnnBWefOJTw/viewform" target="_blank" style="color:black">here</a> to do a fun virtual Star Wars themed escape room.</p>
+    <p> Crack the code below:</p>
+    <img src = StarWarsGame.png/>
+    <p>Here's an I Spy inspired by Star Wars:</p>
+    <img src = ISpyStarWars.jpeg/>
+</div>
