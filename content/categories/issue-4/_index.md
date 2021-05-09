@@ -19,4 +19,4 @@ __Quote of the week__
 > &nbsp;&nbsp;&nbsp;&nbsp;-Elliot Walters
 
 __Shout outs__
->*Congratulation to Brendon for showing perseverance.*
+>*Congratulation to Brendon for showing flexibility.*
